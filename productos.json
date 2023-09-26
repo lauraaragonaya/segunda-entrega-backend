@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Mesa",
+    "description": "Mesa de Madera",
+    "price": 12.99,
+    "thumbnail": "img/mesa-90-x-90-cuadrada.jpg",
+    "code": "001",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "Mesa",
+    "description": "Mesa de Madera",
+    "price": 10.99,
+    "thumbnail": "img/mesa-90-x-90-cuadrada.jpg",
+    "code": "001",
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "title": "Silla",
+    "description": "Silla de Madera",
+    "price": 19.99,
+    "thumbnail": "img/silla-de-madera.jpg",
+    "code": "002",
+    "stock": 50
+  }
+]
